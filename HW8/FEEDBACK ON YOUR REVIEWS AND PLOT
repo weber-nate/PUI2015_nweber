@@ -1,0 +1,58 @@
+your reviews were ok, but a bit shallow and did not address all the points. 9/10
+
+NOTES ON YOUR PLOT
+===================
+
+
+good colorblind-safe choice of color
+
+side by side histogram helps comparison
+
+it is not clear why the choice of overtime cut is different since the "overtime" for costumers seem to be a very large number. but it may be a necessary choice (i.e. it is possible that the data did not offer the information) in which case however it may have been better to include all >30 minutes trips in a single bin for customers as well
+
+labels are readable (minutes could be a bit larger font)
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+lanimc
+============
+
+the points are green but the legend is blue.
+
+it is not clear what the legend means: it probably means the size corresponds to the duration, but this is just an educated guess as the nothing in the legend refers to size
+
+the color is unexplained and appears to be redundant with the size
+
+tick labels are way too small
+
+large values on the y axis should be substituted by a compact notation (eg using units of 1000 trips)
+
+
+
+cindyliu
+============
+
+the colors are not explained nor is the transparency
+
+for the large numbers on x and y axis a more concise notation should be chosen
+
+the 3d dimension is unnecessary and possibly redundant with the color. 
+
+the 3d dimension makes the readability of the Square footage and of the # of units hard to read away from the edges of the respective axis ranges
+
+
+
+JiangTianqi
+============
+  
+the repeated color pattern does not allow categories to be distinguished (seafood-chinese, steakhouse-italian...)
+
+in this case making two separate panels for this plots would be advisable
+
+point size is unnecessarily large and hides observations (despite the transparency)
+
+labels are nice and readable, title is explanatory, legend is well placed
+
